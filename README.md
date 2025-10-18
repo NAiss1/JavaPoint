@@ -1,33 +1,33 @@
 
 
-# 🖥️ JavaPoint — Presentation Designer
+#  JavaPoint — Presentation Designer
 
 **JavaPoint** is a lightweight Java-based presentation builder that allows users to design, edit, and present slide shows directly through a custom graphical interface.
 It’s inspired by tools like PowerPoint but built entirely in **pure Java**, focusing on simplicity, structure, and learning GUI programming principles.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project was developed as a **standalone desktop application prototype** to explore how presentation editing tools can be implemented with Java’s GUI libraries.
 It demonstrates how to build and manage visual objects, handle user input, and organize UI components without relying on external frameworks — ideal for learning Java Swing and event-driven programming.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🧩 **Canvas editor** – add, arrange, and resize text, shapes, and images
-* 🗂️ **Slide management** – create, delete, and navigate between slides
-* 🎞️ **Presentation mode** – full-screen slideshow view
-* 🧰 **Toolbar & ribbon controls** – quick access to main tools
-* 🔲 **Resizable objects** – drag from corners to adjust size
-* 💾 **Save/Load functionality** – basic file persistence
+*  **Canvas editor** – add, arrange, and resize text, shapes, and images
+*  **Slide management** – create, delete, and navigate between slides
+*  **Presentation mode** – full-screen slideshow view
+*  **Toolbar & ribbon controls** – quick access to main tools
+*  **Resizable objects** – drag from corners to adjust size
+*  **Save/Load functionality** – basic file persistence
 
 ---
 
-## 🧠 UI Overview
+##  UI Overview
 
-### 🖼️ Canvas
+###  Canvas
 
 The main workspace where all objects are added.
 
@@ -35,7 +35,7 @@ The main workspace where all objects are added.
 * Drag from corners to resize
 * Click to select and reposition
 
-### 🧭 Toolbar
+###  Toolbar
 
 Located at the top of the app; includes key commands:
 
@@ -43,7 +43,7 @@ Located at the top of the app; includes key commands:
 * **Presentation Mode:** Launch slideshow viewer
 
 
-### 🎨 Ribbon Tools
+###  Ribbon Tools
 
 Organized action categories:
 
@@ -53,13 +53,13 @@ Organized action categories:
 * **Shapes:** Add geometric elements
 * **Copy/Paste:** Reserved for future updates
 
-### 🧾 Slide Preview Sidebar
+###  Slide Preview Sidebar
 
 Displays total slides visually.
 
 ---
 
-## ⚙️ Build & Run Instructions
+##  Build & Run Instructions
 
 To run the app locally:
 
@@ -75,11 +75,11 @@ To run the app locally:
    java Main
    ```
 
-✅ The app will open in a window with a full UI layout (Canvas, Toolbar, Ribbon, Preview Sidebar).
+ The app will open in a window with a full UI layout (Canvas, Toolbar, Ribbon, Preview Sidebar).
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Component         | Technology                             |
 | ----------------- | -------------------------------------- |
@@ -90,7 +90,7 @@ To run the app locally:
 
 ---
 
-## 💾 Installation via Git
+##  Installation via Git
 
 To install or clone this project directly from GitHub:
 
@@ -103,19 +103,19 @@ java Main
 
 ---
 
-## 🖼️ Screenshots (Add Yours)
+##  Screenshots
 
 
-[](Screenshot1.png) 
+![](Screenshot1.png) 
 
-[](Screenshot1.png)
+![](Screenshot2.png)
 
 
 
 
 ---
 
-## 📄 License
+##  License
 
 MIT License © 2025 **Nurmukhammed Aissauyt**
 
