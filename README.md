@@ -106,9 +106,10 @@ java Main
 ## 🖼️ Screenshots (Add Yours)
 
 
-| ![Canvas Screenshot](Screenshot1.png) | ![Presentation Screenshot](Screenshot1.png) |
+[](Screenshot1.png) 
 
-> *(Add screenshots into an `/assets` folder in your repository and update the file paths above.)*
+[](Screenshot1.png)
+
 
 
 
